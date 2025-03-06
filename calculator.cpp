@@ -10,6 +10,6 @@ int main() {
         cout << "Division by zero is not allowed.";
        cout << "Addition: " << a + b;
        cout << "Product: " << a * b;
-    cout<<"This change is from conflict_branch1"<<endl;
+    cout<<"This change is from conflict_branch2"<<endl;
     return 0;
 }
